@@ -6,7 +6,6 @@
  * main - multiplication of two num
  * @argc: args count
  * @argv: args vector
- * 
  * Return: 0 true, 1 false
  */
 
